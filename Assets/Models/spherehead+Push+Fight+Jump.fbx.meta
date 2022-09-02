@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 782a20a1b3c444213bb96a7dc6161373
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 6017828702207381631
+    second: Armature|Fight1
+  - first:
+      74: 5917747311118963168
+    second: Armature|Fight2
+  - first:
+      74: 1545348646098303083
+    second: Armature|Fight3
+  - first:
+      74: -401332205445869289
+    second: Armature|Fight4
+  - first:
+      74: -5930976613826931502
+    second: Armature|HappyIdle
+  - first:
+      74: -6408972604753596374
+    second: Armature|HappyIdle2
+  - first:
+      74: -2741020374753586417
+    second: Armature|HappyIdle3
+  - first:
+      74: -3696750022945504913
+    second: Armature|HappyIdle4
+  - first:
+      74: -8945691123924629249
+    second: Armature|Idle
+  - first:
+      74: -705060026260225181
+    second: Armature|Idle+Flex
+  - first:
+      74: -4136201158598954029
+    second: Armature|Idle+Flex1
+  - first:
+      74: 4472599125131865544
+    second: Armature|Idle+Flex2
+  - first:
+      74: 2789604289822619476
+    second: Armature|Idle1
+  - first:
+      74: 213856876459495052
+    second: Armature|Idle2
+  - first:
+      74: 4293157208931767606
+    second: Armature|Idle5
+  - first:
+      74: 1079665108409675491
+    second: Armature|Jump
+  - first:
+      74: -4015822334613437190
+    second: Armature|JumpFalling
+  - first:
+      74: -5628784803929768082
+    second: Armature|JumpLanding
+  - first:
+      74: 6363340012903033430
+    second: Armature|Lose
+  - first:
+      74: 1202601051838754602
+    second: Armature|Lose3
+  - first:
+      74: 4381930900068068552
+    second: Armature|lose4
+  - first:
+      74: 2015877212808977395
+    second: Armature|PushingFast
+  - first:
+      74: 6192312441329156223
+    second: Armature|PushungSlow
+  - first:
+      74: -453051236339591812
+    second: Armature|Runing
+  - first:
+      74: 3122793350146654317
+    second: Armature|SadIdle
+  - first:
+      74: 482509280164789633
+    second: Armature|SadIdle1
+  - first:
+      74: 7252388730281986996
+    second: Armature|SadIdle2
+  - first:
+      74: 9097167011936674008
+    second: Armature|SadIdle3
+  - first:
+      74: -4274770991410265338
+    second: Armature|Walking
+  - first:
+      74: 3496040570958989425
+    second: Armature|Win
+  - first:
+      74: -4455376210721679762
+    second: Armature|Win1
+  - first:
+      74: -2418981429804034533
+    second: Armature|Win2
+  - first:
+      74: -5936838677809396369
+    second: Armature|Win3
+  - first:
+      74: -4388820445533980676
+    second: Armature|Win4
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

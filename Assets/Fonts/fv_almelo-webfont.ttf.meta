@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a1992b227e2e843e4b75f2f24a50bb50
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FV Almelo
+  fontNames:
+  - FV Almelo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5d59f036cd0f14fed8ae0219fde5f5a2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
